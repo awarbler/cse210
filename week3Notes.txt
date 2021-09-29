@@ -1,0 +1,91 @@
+Assignment 
+    1. make arrangement to me meet slack or zoom , we choose zoom
+    2. completed Assignment add comment - submitting the specifies 
+        the grading category (5 to 1 scale) best describe your program
+        along with a short justification of your choices. please see
+        see the rubic below
+    3. group submisson , only one member of the group needs to submit 
+        the final Assignment
+
+
+
+Team Challege 03 
+
+Distributed version control is a form of version control in which the 
+complete codebase, including its full history, is mirrored on every 
+developer's computer. This improves the ability to work offline and 
+does not rely on a single location for backups.
+
+colloborate with others - using a branch based workflow w version control
+
+write a program that spans multiple files
+
+Instructions 
+Complete both parts of this assignment to create a program that is spread 
+across multiple files, authored by multiple collaborators, and stored in 
+version control.
+
+1. select one person to act as the team lead
+    a. one person in charge of creating a remote repositorie
+    b. same person responsible in pull request
+
+
+2. Team Leader : create a new remote repository 
+    A. name it cse210-tc03
+    b. initialize the repository w/ README.md file
+
+3. All members : Clone remote repository on computer 
+    A. how to clone 
+        - get the repository html link go to link 
+        - click code 
+        - click https
+        - copy the link address
+    b. go to visual studios 
+        - click view
+        - click command pallette
+        - git clone 
+        - enter clone for the github
+        - ?? do I copy it in my current work space?  or do I put it in a new workspace
+        - if I put it in its own workspace it will not since with my cse210
+
+# download a repository on GitHub.com to our machine
+git clone https://github.com/me/repo.git
+
+# change into the `repo` directory
+cd repo or where it is located but easier to do in visual studios 
+
+4. All members : crate a feature branh called [name]-bio ex anita-bio
+    a. open up the terminal in visual studio  
+    b. check your branch
+    c. create a new to store any new changes 
+        git branch nameOfBranch-branch
+    d, see if branch as has been added
+        git branch 
+         
+
+5. all members : change into the new feather branch -modify the README.md
+   file by adding your name and a short paragraph about yourself.Commit changes
+   and push them to the repository. 
+    a. open up the branch 
+        git checkout nameOfBranch-branch
+    b. make changes, for example, edit `file1.md` text editor   
+        adding my bio to the README.md file 
+    # stage the changed file
+            git add file1.md
+
+    # take a snapshot of the staging area
+            git commit -m "edit file1"
+
+    # push changes to github
+            git push    
+
+
+
+
+    
+   
+
+
+
+    
+
