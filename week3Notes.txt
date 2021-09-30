@@ -1,5 +1,6 @@
-Assignment 
-    1. make arrangement to me meet slack or zoom , we choose zoom
+Week 03 Assignment 
+    1. make arrangement to meet over slack or zoom , 
+        we choose zoom
     2. completed Assignment add comment - submitting the specifies 
         the grading category (5 to 1 scale) best describe your program
         along with a short justification of your choices. please see
@@ -54,7 +55,7 @@ git clone https://github.com/me/repo.git
 # change into the `repo` directory
 cd repo or where it is located but easier to do in visual studios 
 
-4. All members : crate a feature branh called [name]-bio ex anita-bio
+4. All members : create a feature branch called [name]-bio ex anita-bio
     a. open up the terminal in visual studio  
     b. check your branch
     c. create a new to store any new changes 
@@ -83,9 +84,5 @@ cd repo or where it is located but easier to do in visual studios
 
 
     
-   
 
-
-
-    
 
